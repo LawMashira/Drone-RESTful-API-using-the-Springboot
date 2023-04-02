@@ -1,7 +1,7 @@
 
 DRONE PROJECT
 
-This project is about a drone application that registers drones are used for carrying medication
+This project is about a drone application that registers new dronesused for carrying medication
 
 
 
